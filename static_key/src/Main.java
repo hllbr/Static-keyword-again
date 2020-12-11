@@ -1,6 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
         StaticClass staticClass = new StaticClass("hllbr");
         StaticClass staticClass1 = new StaticClass("@prince");
         StaticClass staticClass2 = new StaticClass("h2lbr");
